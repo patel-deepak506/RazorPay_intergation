@@ -4,7 +4,7 @@ require('dotenv').config()
 const Razorpay = require('razorpay')
 const cors = require('cors')
 
-app.use(express.json())
+app.use(express.json()) // this is for body data 
 app.use(cors())
 
 var instance = new Razorpay({ key_id: process.env.key_id, key_secret: process.env.key_secret })
