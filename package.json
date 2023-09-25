@@ -15,6 +15,6 @@
     "dotenv": "^16.0.3",
     "epxress": "0.0.1-security",
     "nodemon": "^2.0.20",
-    "razorpay": "^2.8.3"
+    "razorpay": "^2.8.6"
   }
 }
