@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "epxress": "0.0.1-security",
-    "nodemon": "^2.0.20",
+    "nodemon": "^2.0.22",
     "razorpay": "^2.8.3"
   }
 }
